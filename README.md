@@ -1,6 +1,8 @@
 # Prism
 ### THEME: Light & Dark
 
+ ![Main Menu](./prism_img3.png?raw=true)
+
 Prism is a pygame game about a boy named Dylan Park, who is left in an arcade overnight. He finds refuge in playing the arcade machines that have been left running-- but they seem to be lighting up the arcade... and maybe the path to his escape?
 
 ### Cool Features!
@@ -25,3 +27,7 @@ Prism is a pygame game about a boy named Dylan Park, who is left in an arcade ov
 
 7 - Even More!
     You'll experience more features upon playing Prism, like ambience, 2.5D Perspective, etc. So why not download it?
+    
+  ![The Arcade](./prism_img1.png?raw=true)
+  
+   ![A MiniGame in Prism](./prism_img2.png?raw=true)
